@@ -49,7 +49,7 @@ The project is built on a relational database consisting of:
 
 ### Entity Relationship Diagram
 
-![Database Schema](ScreenShots/01.schema_diagram.png)
+![Database Schema](Screenshots/01.schema_diagram.png)
 
 ---
 
